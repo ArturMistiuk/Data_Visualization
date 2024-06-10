@@ -17,8 +17,30 @@ After data cleaning and Exploratory Data Analysis (EDA), I conducted a detailed 
 
 ## Data Visualization
 
-Let's first look at the top 3 diseases for each country and the age groups of people who died from each disease.
+First, let's look at the top 5 diseases causing deaths in Ukraine and Sweden, and highlight the common diseases between the countries.
+
+![Top 5 Diseases](Diseases-Specific-Death-Ratio.png)
+
+Now let's have a look at the top 3 diseases for each country and the age groups of people who died from each disease.
 
 ![Top 3 Diseases](general_3_dis.png)
 
+Why does Ukraine have four times more deaths from chronic respiratory diseases? I researched the causes of this disease and found the main factors to be:
+Smoking, air pollution, diet, alcohol.
+Let's first look at the statistics for these two factors in these countries. 
 
+Air pollution:
+
+![Air Pollution](air_pollution_deaths.png)
+
+Number of smokers:
+
+![Daily Smokers](daily_smokers.png)
+
+And finally, let's compare the percentage of GDP spent on medical expenditure.
+
+![Medical Expenditure](medical_expenditure.png)
+
+## Conclusion
+
+Having understood the reasons and compared the results of the two countries, it is now clearer why Ukraine has more deaths from chronic respiratory diseases than Sweden.
