@@ -14,3 +14,11 @@ After data cleaning and Exploratory Data Analysis (EDA), I conducted a detailed 
 - **EDA**: Conducting exploratory data analysis to understand the data better.
 - **Data Visualization**: Creating graphs and charts to visualize the insights.
 - **Comparison**: Highlighting differences and similarities in the causes of death between Sweden and Ukraine.
+
+## Data Visualization
+
+Let's first look at the top 3 diseases for each country and the age groups of people who died from each disease.
+
+![Top 3 Diseases](general_3_dis.png)
+
+
