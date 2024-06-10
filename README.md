@@ -4,6 +4,10 @@
 
 This project focuses on analyzing and comparing the causes of death in Sweden and Ukraine. The main goal is to visualize the data and create insightful graphs that highlight the influencing factors.
 
+## Data Source
+The dataset is taken from the UCI repository Burden Diseases:
+[https://ourworldindata.org/burden-of-disease](https://ourworldindata.org/burden-of-disease)
+
 ## Project Highlights
 
 After data cleaning and Exploratory Data Analysis (EDA), I conducted a detailed analysis and created graphs that reveal key insights from the data.
